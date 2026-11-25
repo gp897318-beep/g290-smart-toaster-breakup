@@ -1,1 +1,11 @@
-{"name":"g290-smart-toaster-breakup","private":true,"type":"module","version":"1.0.0"}
+{
+  "name": "g290-smart-toaster-breakup",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun entry: Unplugged — a smart toaster's breakup line at breakfast",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
